@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to the ElonInu (EINU) Smart contract repository. EINU is a sister token of famous ElonTech (ETCH).
 <!--
 **eloninu/eloninu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
